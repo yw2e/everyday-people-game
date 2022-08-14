@@ -8,8 +8,8 @@ body {
   height: 100vh;
   display: flex;
   flex-flow: column;
-  background: #000;
-  color: #fff;
+  background:rgb(58, 54, 82);
+  color: white;
 }
 
 header {
